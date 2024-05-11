@@ -1,0 +1,39 @@
+32
+ds
+fas
+as
+1
+44
+3 3 3 4 4 5 5 5
+
+5
+safh
+asfh
+hsafh
+1
+20
+4 4 4 4 4 4 4 4
+
+12
+dfsfsdg
+sdgsdg
+asfsdg
+0
+43
+5 5 5 5 5 5 5 5
+
+23
+sdggs
+sfdfsfd
+sdfsdg
+0
+63
+4 4 4 4 5 5 5 5
+
+5
+rifatik
+ilbuldin
+fassf
+1
+72
+4 4 4 4 4 4 4 4
